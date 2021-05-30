@@ -1,0 +1,1314 @@
+"","id","course_name","credits"
+"1","ADF-S101","Foundation Drawing I",3
+"2","ADF-S102","Foundation Drawing II",3
+"3","ADF-110","Discovering Boston's Art and Design",3
+"4","ADF-S123","Painting",3
+"5","ADF-S152","3-Dimensional Design",3
+"6","ADF-S156","Imaging",3
+"7","ADF-S166","2D/Color",1
+"8","ADF-S171","CI: Integrated Studio I",3
+"9","ADF-S172","CI: Integrated Studio II",3
+"10","ADFA-S201","Drawing: Language of Light",1
+"11","ADFA-S204","Sculptural Thinking",3
+"12","ADFA-S220","Drawing: Shifting Scales",4
+"13","ADFA-S241","Painting Studio",2
+"14","ADFA-S242","Sculpture Studio",3
+"15","ADFA-S251","Printmaking Studio",3
+"16","ADFA-S271","Fine Arts Seminar I",3
+"17","ADFA-S272","Fine Arts Seminar I",3
+"18","ADFA-S311","Contemporary Trends & Practices",3
+"19","ADFA-S344","Advanced Drawing Issues",1
+"20","ADFA-S345","Advanced Printmaking",3
+"21","ADFA-S361","Figure Studio: 2D",3
+"22","ADFA-S362","Figure Studio: 3D",3
+"23","ADFA-S371","Fine Arts Seminar II",1
+"24","ADFA-S372","Fine Arts Seminar II",3
+"25","ADFA-HS372","Fine Arts Seminar II",3
+"26","ADFA-S380","Advanced Seminar Projects",3
+"27","ADFA-S381","Advanced Seminar Projects II",3
+"28","ADFA-S382","Advanced Seminar Projects III",3
+"29","ADFA-400","Fine Arts Internship",3
+"30","ADFA-S410","Senior Thesis",3
+"31","ADFA-HS510","Fine Arts Honors Independent Study",4
+"32","ADFA-S510","Fine Arts Independent Study",3
+"33","ADG-S201","Typography I",3
+"34","ADG-S202","Typography II",3
+"35","ADG-S204","Design Beyond Design",4
+"36","ADG-S206","Graphic Design I",3
+"37","ADG-S207","Graphic Design II",1
+"38","ADG-S213","Design for Digital Communication",1
+"39","ADG-S214","Illustration for Designers",3
+"40","ADG-S219","Computer Applications in Design",3
+"41","ADG-224","History of Graphic Design",3
+"42","ADG-S311","Integrated Advertising",3
+"43","ADG-S330","Motion Graphics",4
+"44","ADG-S334","Publication Design",3
+"45","ADG-337","Professional Practice",3
+"46","ADG-S340","Online Mobile Design",3
+"47","ADG-S344","Graphic Design III",1
+"48","ADG-S345","Graphic Design IV",3
+"49","ADG-HS345","Graphic Design IV",3
+"50","ADG-S354","SL-Advanced Computer Applications",3
+"51","ADG-S360","Branding & Identity Design",3
+"52","ADG-S373","UX/UI Design",3
+"53","ADG-400","Graphic Design Internship",3
+"54","ADG-510","Graphic Design Undergraduate Independent Study",3
+"55","ADG-HS510","Honors Graphic Design Independent Study",3
+"56","ADI-01","Introduction to Interior Design & Decoration",1
+"57","ADI-S106","Interior Design Communications",3
+"58","ADI-S107","Spatial Graphics",3
+"59","ADI-S110","Digital Orthographics",3
+"60","ADI-S201","Interior Design Studio I",3
+"61","ADI-S202","Residential Design Studio",3
+"62","ADI-S215","Human Factors & Universal Design",3
+"63","ADI-223","History of Furniture & Architecture",3
+"64","ADI-234","History & Theory of Interior Architecture",3
+"65","ADI-242","Interior Codes & Construction",3
+"66","ADI-244","Interior Materials & Finishes",3
+"67","ADI-254","Lighting",2
+"68","ADI-S264","Advanced Interior Design Communication",3
+"69","ADI-S303","Contract Design Studio I",3
+"70","ADI-S304","Furniture and Detailing Studio",3
+"71","ADI-S305","Contract Design Studio II",3
+"72","ADI-306","Portfolio",3
+"73","ADI-352","Environmental Systems",3
+"74","ADI-S372","Construction Documents",1
+"75","ADI-390","Marketing, Contracts, & Internship",3
+"76","ADI-S398","Senior Programming & Pre-Design",3
+"77","ADI-S401","Senior Studio",3
+"78","ADI-HS401","Senior Studio",3
+"79","ADI-510","Undergraduate Independent Study",3
+"80","ADI-H510","Honors Undergraduate Independent Study",3
+"81","ADPR-101","Introduction to Advertising, Public Relations, and Social Media",3
+"82","ADPR-102","Professional Development",3
+"83","ADPR-103","Presentations Skills",2
+"84","ADPR-110","Introduction to Debate",3
+"85","ADPR-177","Professional Communication",3
+"86","ADPR-210","Communication Research Statistics",4
+"87","ADPR-217","Gay and Lesbian Studies",3
+"88","ADPR-219","Rhetoric of Protest and Reform",3
+"89","ADPR-229","The Dark Side of Social Media",3
+"90","ADPR-230","Hip Hop Culture",3
+"91","ADPR-235","Argument and Advocacy",3
+"92","ADPR-239","Creativity in Global Branding",3
+"93","ADPR-245","Forensics",3
+"94","ADPR-247","Design Lab",3
+"95","ADPR-257","Advertising",4
+"96","ADPR-258","Sports Public Relations",3
+"97","ADPR-260","Brands & Social Responsibility",3
+"98","ADPR-285","Media and Pop Culture I",3
+"99","ADPR-289","Social Media",3
+"100","ADPR-297","Web Design",2
+"101","ADPR-299","Blogs and Blogging",3
+"102","ADPR-2277","Public Relations I: Principles",3
+"103","ADPR-309","Grassroots Digital Advocacy",4
+"104","ADPR-317","Principles of Branding and Visual Identity",2
+"105","ADPR-335","Negotiation",3
+"106","ADPR-339","Social Media and Social Movements",1
+"107","ADPR-340","Health Communication",3
+"108","ADPR-347","Media Planning",3
+"109","ADPR-351","Native Advertising",1
+"110","ADPR-355","Advertising and PR Agency Management",3
+"111","ADPR-359","Advertising Copy",3
+"112","ADPR-360","Lifestyles PR: Entertainment",3
+"113","ADPR-361","Lifestyle Public Relations: Fashion",3
+"114","ADPR-363","Lifestyle Public Relations: Travel and Tourism",3
+"115","ADPR-364","Lifestyle Public Relations: Food and Beverages",3
+"116","ADPR-365","Nonprofit Promotion",3
+"117","ADPR-370","Usability and Information Architecture",1
+"118","ADPR-371","Social Media Analytics",3
+"119","ADPR-378","Event Planning and Promotion",1
+"120","ADPR-383","Online Advertising",3
+"121","ADPR-389","Social Media Marketing Communication",3
+"122","ADPR-3376","Public Relations II: Research",3
+"123","ADPR-3377","Public Relations III: Strategic Writing",1
+"124","ADPR-409","Content Management",3
+"125","ADPR-422","Technology Trends in Advertising and Public Relations",3
+"126","ADPR-430","Social Media Campaigns",3
+"127","ADPR-435","Advocacy and Public Policy",2
+"128","ADPR-437","Ad Campaigns",3
+"129","ADPR-441","Risk and Crisis Communication",3
+"130","ADPR-445","The Election in Real Time",3
+"131","ADPR-457","Integrated Marketing Communication",3
+"132","ADPR-H457","Honors Integrated Marketing Communication",3
+"133","ADPR-479","Environmental Public Relations",3
+"134","ADPR-489","Political Communication",3
+"135","ADPR-4477","Public Relations IV: Campaigns",3
+"136","ADPR-4478","SL-Public Relations IV: Campaigns",1
+"137","ADPR-503","Experiential Learning in Communication",3
+"138","ADPR-506","Honors Seminar",3
+"139","ADPR-H506","Honors Seminar",4
+"140","ADPR-510","Independent Study",3
+"141","ADPR-H510","Honors Independent Study",2
+"142","ALS-265","Law and Ethics",3
+"143","ALS-266","Criminal Law",1
+"144","ALS-362","Litigation",1
+"145","ALS-363","Law of Contracts",3
+"146","ALS-366","Corporate Law",3
+"147","ALS-368","Real Estate Law",3
+"148","ALS-369","Family Law",3
+"149","ALS-360","Fundamentals of Paralegal Practice",3
+"150","ALS-361","Legal Research & Writing I",3
+"151","ALS-370","Administrative Law and Worker's Compensation",3
+"152","ALS-373","Education Law",1
+"153","ALS-374","Torts: Personal Injury Law",1
+"154","ALS-378","Advanced Litigation & Trial Practice",3
+"155","ALS-381","Paralegal Internship",3
+"156","ALS-383","Immigration Law",3
+"157","ALS-384","Intellectual Property",3
+"158","ALS-385","Legal Research & Writing II",3
+"159","ALS-390","Employment & Labor Law",3
+"160","ALS-391","Domestic Violence, Abuse & Neglect",3
+"161","ALS-510","Independent Study",2
+"162","AMST-101","American History and Culture",3
+"163","ARAB-101","Elementary Modern Standard Arabic",3
+"164","ARAB-102","Elementary Modern Arabic II",1
+"165","ARH-101","Art History I",1
+"166","ARH-102","Art History II",3
+"167","ARH-203","Arts of Asia",3
+"168","ARH-205","Gender, Class and Alterity in Ancient and Medieval Art",3
+"169","ARH-206","Global Cross-Cultural Perspectives in Art",3
+"170","ARH-290","Internship in Art History",3
+"171","ARH-303","Art of the Early Renaissance in Italy",3
+"172","ARH-304","Art in the Age of Michelangelo: The High and Late Renaissance in Italy",3
+"173","ARH-308","Art of the Baroque & Rococo",3
+"174","ARH-309","Art of the 19th Century",3
+"175","ARH-310","Modernism in Art",3
+"176","ARH-311","American Art",3
+"177","ARH-312","Art of the Northern Renaissance",3
+"178","ARH-316","Contemporary Art",3
+"179","ARH-318","Art and Museums Today",3
+"180","ARH-321","Women, Art and Society",3
+"181","ARH-404","Seminar in Art History: Caravaggio",3
+"182","ARH-406","Seminar in Art History: Bernini",3
+"183","ARH-411","Seminar in Art History: Impressionism",3
+"184","ARH-510","Independent Study",3
+"185","ARH-H510","Honors Independent Study",3
+"186","ARH-H555","Art History Honors Thesis",3
+"187","ART-02","Pre-College",3
+"188","ART-10","Portfolio Development Workshop",3
+"189","ART-S209","Introduction to Drawing and Mixed Media",3
+"190","ART-S211","Introduction to Painting",2
+"191","AS-100","Introduction to Asian Studies: Culture, People, Ideas",1
+"192","AS-220","Chinese Food in America",3
+"193","AS-500","Asian Studies Internship",2
+"194","AS-510","Independent Study",1
+"195","AS-511","Professional Development for Asian Studies",1
+"196","AS-H555","Senior Honors Thesis",2
+"197","ASL-101","Elementary American Sign Language I",3
+"198","ASL-102","Elementary American Sign Language II",3
+"199","BIO-104","Environmental Biology",3
+"200","BIO-L104","Environmental Bio Lab",3
+"201","BIO-105","Humans and the Evolutionary Perspective",3
+"202","BIO-H105","Honors Humans and the Evolutionary Perspective",3
+"203","BIO-107","The Curiosity of Cats, the Devotion of Dogs",3
+"204","BIO-H107","The Curiosity of Cats, the Devotion of Dogs",3
+"205","BIO-111","Introduction to the Cell",3
+"206","BIO-H111","Honors Introduction to the Cell",3
+"207","BIO-L111","Introduction to the Cell Laboratory",3
+"208","BIO-LH111","Honors Introduction to the Cell Laboratory",3
+"209","BIO-LV111","Introduction to the Cell Laboratory Online",4
+"210","BIO-114","Organismal Biology",3
+"211","BIO-L114","Organismal Biology Laboratory",3
+"212","BIO-LH114","Honors Organismal Biology Laboratory",3
+"213","BIO-201","Biology's Big Questions",3
+"214","BIO-203","Anatomy and Physiology I",3
+"215","BIO-L203","Anatomy & Physiology Lab I",3
+"216","BIO-204","Anatomy and Physiology II",4
+"217","BIO-H204","Honors Anatomy and Physiology II",3
+"218","BIO-L204","Anatomy & Physiology Lab II",4
+"219","BIO-216","Coastal & Ocean Policy and Management",1
+"220","BIO-218","Water Resources Planning & Management",4
+"221","BIO-225","Plant Biology",3
+"222","BIO-L225","Plant Biology Laboratory",3
+"223","BIO-233","Human Nutrition",3
+"224","BIO-240","Introduction to Marine Mammals",3
+"225","BIO-254","Marine Biology",3
+"226","BIO-L254","Marine Biology Lab",3
+"227","BIO-262","Principles of Cell Culture",3
+"228","BIO-273","Biostatistics",3
+"229","BIO-H273","Biostatistics",3
+"230","BIO-274","Genetics",4
+"231","BIO-H274","Honors Genetics",3
+"232","BIO-L274","Genetics Lab",3
+"233","BIO-LV274","Genetics Lab Online",3
+"234","BIO-285","Microbiology",3
+"235","BIO-L285","Microbiology Laboratory",3
+"236","BIO-302","Writing for Research",3
+"237","BIO-304","Comparative Animal Physiology",3
+"238","BIO-L304","Comp Animal Physiology Lab",3
+"239","BIO-321","Earth and Life Through Time",3
+"240","BIO-333","Ecology",3
+"241","BIO-H333","Honors Ecology",3
+"242","BIO-L333","Ecology Lab",3
+"243","BIO-337","Evolution",3
+"244","BIO-343","Biodiversity & Conservation Biology",3
+"245","BIO-345","The Biology of Vector Borne Diseases",3
+"246","BIO-357","Biology of Fishes",1
+"247","BIO-359","Biology of Whales",3
+"248","BIO-360","Cancer Biology",3
+"249","BIO-377","Immunology",1
+"250","BIO-385","Advanced Microbiology",3
+"251","BIO-403","Cell Biology",3
+"252","BIO-L403","Cell Biology Lab",3
+"253","BIO-409","Biology Senior Seminar",3
+"254","BIO-H409","Honors Biology Senior Seminar",3
+"255","BIO-474","Molecular Genetics",3
+"256","BIO-L474","Molecular Genetics Lab",3
+"257","BIO-475","Developmental Biology",3
+"258","BIO-500","Experiential Learning in Biology",3
+"259","BIO-501","Biology Non-Credit Internship",3
+"260","BIO-503","Biology Internship",3
+"261","BIO-H503","Biology Internship",3
+"262","BIO-510","Independent Study",3
+"263","BIO-H510","Honors Biology Independent Study",3
+"264","BIO-H511","Biology Honors Independent Study",3
+"265","BIO-H512","Honors in Biology Thesis",3
+"266","BIO-H555","Honors in Biology Capstone",3
+"267","BLC-AIM","Academic Improvement",4
+"268","BLKST-100","Introduction to Black Studies I: Survey of the Discipline",3
+"269","BLKST-101","Introduction to Black Studies II Research and Writing",2
+"270","BLKST-225","West African History Through Film and Literature",4
+"271","BLKST-226","The African American Experience in Literature and Film",3
+"272","BLKST-250","Haiti, Guadeloupe and Martinique",3
+"273","BLKST-469","Research Seminar: African American Life in Slavery and Freedom- Reconstruction and the Freedman's Bureau Papers",3
+"274","CAS-ETHIC","Used to Fulfill Ethics",2
+"275","CAS-HBS","Used to Fulfill HBS",4
+"276","CAS-PERSP","Used to Fulfill Persp",2
+"277","CAS-STLIT","Used to Fulfill St-Lit",1
+"278","CAS-VPATH","Used to Fulfill Vpath",3
+"279","CAS-101","Strategies of Success",3
+"280","CAS-H101","Honors Strategies of Success",3
+"281","CAS-102","Stand Out! Strategies for Success 11",3
+"282","CAS-201","College to Career: Explore Your Options And Find Your Path",3
+"283","CAS-202","Professional Development on Social Media",1
+"284","CAS-H211","Honors Experiential Engagement I",3
+"285","CAS-H212","Honors Experiential Engagement II",3
+"286","CAS-H221","Honors Research / Creativity I",2
+"287","CAS-H222","Honors Research / Creativity II",3
+"288","CAS-H231","Honors Community Contribution I",1
+"289","CAS-H232","Honors Community Contribution II",3
+"290","CAS-251","What Makes Us Human?",3
+"291","CAS-261","Watercolour",3
+"292","CAS-L262","Introduction to Woodcraft",3
+"293","CAS-263","Cell Phone Art",3
+"294","CAS-L281","The World of Wine",3
+"295","CAS-282","Politics Is Not a Dirty Word: Rules of Engagement 101",3
+"296","CAS-291","Symmetry Group Strategies for Solving Rubik's Cube",3
+"297","CAS-292","Craft Beer Concepts",4
+"298","CAS-H292","Honors Contract",3
+"299","CAS-301","Peer Mentoring 101",3
+"300","CAS-302","Socially Responsible Leadership",3
+"301","CAS-401","Resume & Cover Letter Writing",3
+"302","CAS-403","Designing Your Portfolio",3
+"303","CAS-510","CSDM Independent Study",1
+"304","CAS-H510","Honors CSDM Independent Study",1
+"305","CAS-513","CSDM Internship",3
+"306","CAS-H520","Honors Senior Portfolio",3
+"307","CAS-H525","Honors Start Up Institute",3
+"308","CAS-555","CSDM Interdisciplinary Capstone",3
+"309","CAS-H555","Honors CSDM Interdisciplinary Capstone",3
+"310","CHEM-111","General Chemistry I",2
+"311","CHEM-L111","General Chemistry Laboratory I",3
+"312","CHEM-LV111","General Chemistry Laboratory I Online",1
+"313","CHEM-112","General Chemistry II",3
+"314","CHEM-H112","Honors General Chemistry II",3
+"315","CHEM-L112","General Chemistry Laboratory II",3
+"316","CHEM-LV112","General Chemistry Laboratory II Online",3
+"317","CHEM-211","Organic Chemistry I",3
+"318","CHEM-L211","Organic Chemistry Laboratory I",3
+"319","CHEM-LV211","Organic Chemistry Laboratory I Online",3
+"320","CHEM-212","Organic Chemistry II",3
+"321","CHEM-L212","Organic Chemistry Laboratory II",3
+"322","CHEM-LV212","Organic Chemistry Laboratory II Online",3
+"323","CHEM-314","Instrumental Analysis",1
+"324","CHEM-L314","Instrumental Analysis Laboratory",3
+"325","CHEM-331","Biochemistry I",3
+"326","CHEM-L331","Biochemical Techniques Lab",1
+"327","CHEM-332","Biochemistry II",3
+"328","CHEM-L332","Advanced Biochemical Techniques and Research Lab",3
+"329","CHEM-355","Environmental Chemistry",3
+"330","CHEM-L355","Environmental Chemistry Lab",3
+"331","CHEM-375","Advanced Inorganic Chemistry",3
+"332","CHEM-L375","Advanced Inorganic Laboratory",3
+"333","CHEM-411","Physical Chemistry I",4
+"334","CHEM-L411","Physical Chemistry Laboratory I",3
+"335","CHEM-412","Physical Chemistry II",1
+"336","CHEM-L412","Physical Chemistry Laboratory II",3
+"337","CHEM-428","Research & Seminar I",3
+"338","CHEM-H428","Honors Research & Seminar I",3
+"339","CHEM-429","Research & Seminar II",3
+"340","CHEM-H429","Honors Research & Seminar II",4
+"341","CHEM-453","Introduction to Pharmacology & Toxicology",3
+"342","CHEM-L453","Introduction to Pharmacology and Toxicology Lab",3
+"343","CHEM-500","Experiential Learning in Chemistry",3
+"344","CHEM-503","Chemistry Or Biochemistry Internship",3
+"345","CHEM-H503","Honors Chemistry or Biochemistry Internship",3
+"346","CHEM-510","Independent Study",3
+"347","CHEM-H510","Honors Independent Study",3
+"348","CHIN-101","Elementary Chinese I",1
+"349","CHIN-102","Elementary Chinese II",4
+"350","Choose","one Creativity & Innovation course from those listed below:",3
+"351","CI-102","The End of Global Poverty",1
+"352","CI-H102","The End of Global Poverty",3
+"353","CI-103","Sticking Your Neck Out- Inventing for Non-Engineers",3
+"354","CI-106","Failing Successfully",3
+"355","CI-H106","Failing Successfully",2
+"356","CI-108","Designing the Next Best Thing",3
+"357","CI-110","The Entrepreneur's Cocktail",1
+"358","CI-112","Creating Problems: a New Solution for Sustainability",3
+"359","CI-H112","Honors Creating Problems: a New Solution For Sustainability",2
+"360","CI-114","Creating the Dream Team",1
+"361","CI-115","Poetry Out Loud",3
+"362","CI-116","Good to Great: Design YOUR Portal to the World",3
+"363","CI-H119","SL-Honors Theatre at Work",3
+"364","CI-120","Process to Value: The Power of Relationships",2
+"365","CI-121","Catastrophe Management: From 9/11 to the Boston Marathon Bombings",3
+"366","CI-122","Financial Creativity: You Are the Universe",3
+"367","CI-129","Art & Innovation Practices",3
+"368","CI-131","Off to the Future: Leadership Through Compromise",3
+"369","CI-133","Franklin and the American Experiment",3
+"370","CI-H133","Honors Franklin and the American Experiment",3
+"371","CI-135","The Design of Everything",2
+"372","CI-H139","Creating, Promoting, and Participating in the Literary Arts",3
+"373","CI-141","The Creative Approach to Learning",3
+"374","CI-143","Dreams, Demons, and Dynamic Artists Creative Nature",3
+"375","CI-147","Seeing Double, Printmaking, the Art of Discovery, Experimentation and Process",3
+"376","CI-149","SL-Creative Writing and Literacy",3
+"377","CI-H149","SL-Creative Writing and Literacy",3
+"378","CI-153","Branding and Visual Identity",3
+"379","CI-157","Mindful Journal",3
+"380","CI-159","Building a Better T",3
+"381","CI-161","Making History: Public Memory in the Digital Age",3
+"382","CI-H161","Making History: Public Memory in the Digital Age",3
+"383","CI-163","A Course on Skepticism and Rationality",3
+"384","CI-165","Chemistry Is Everywhere: Zig-Zagging to Success",3
+"385","CI-H165","Honors Chemistry Is Everywhere: Zig- Zag",3
+"386","CI-167","Public Health: A Need to Think Outside The Box",3
+"387","CI-169","Riddles of Identity",1
+"388","CI-171","What Is the Moral of This Story?",3
+"389","CI-173","Imagining the Other",1
+"390","CI-175","Creating Social Change: From Theory to Activism",3
+"391","CI-H175","Honors Creating Social Change: From Theory to Activism",3
+"392","CI-177","The Curious & Open-Hearted Historian",3
+"393","CI-H177","Honors- the Curious & Open-Hearted Historian",3
+"394","CI-179","Myths of Self-Making",3
+"395","CI-181","Creating Change: Perspective Matters",3
+"396","CI-H185","Honors City of Stories: Walking Tours of Boston's Past",3
+"397","CI-187","Think Small: Change the World",1
+"398","CI-189","The Extended Photo Essay",3
+"399","CI-191","The Self in Society",3
+"400","CI-193","Tackling Global Issues Creatively: Sustainable Development",3
+"401","CI-195","Bilingualism at Play",3
+"402","CJN-101","Introduction to Communication",3
+"403","CJN-105","Principles of Oral Communication",3
+"404","CJN-112","Journalism I",3
+"405","CJN-114","Great Works of Journalism",3
+"406","CJN-152","Visual Aesthetics",3
+"407","CJN-212","Journalism II",3
+"408","CJN-216","Intercultural Communication",3
+"409","CJN-L218","Photojournalism",1
+"410","CJN-220","Review Opinion and Writing",3
+"411","CJN-222","Leadership and Communication",3
+"412","CJN-225","World Cinema",3
+"413","CJN-239","Media Law",3
+"414","CJN-253","Broadcast Journalism",3
+"415","CJN-255","Introduction to Media",3
+"416","CJN-270","Speaking Across Cultures",1
+"417","CJN-280","Business of Documentary",3
+"418","CJN-281","Asian Popular Culture",3
+"419","CJN-292","Film History: From Silent Cinema to the Modern Era",3
+"420","CJN-293","Hong Kong Cinema",3
+"421","CJN-2080","Drones for Filmmakers",3
+"422","CJN-L2080","Drones for Filmmakers Lab",3
+"423","CJN-2355","Production I",4
+"424","CJN-301","Documentary Film and the Image of Conflict in the Middle East",3
+"425","CJN-H301","Honors Documentary Film and the Image of Conflict in the Middle East",2
+"426","CJN-303","Current Issues in Documentary",3
+"427","CJN-315","Leadership, Communication and Mediation",3
+"428","CJN-317","Copy Editing",3
+"429","CJN-321","Research Methods in Communication",3
+"430","CJN-335","Persuasion",4
+"431","CJN-352","Visual and Global Contexts",3
+"432","CJN-353","Broadcast Journalism II",3
+"433","CJN-356","TV Studio Production",3
+"434","CJN-357","Advanced Editing Skills",2
+"435","CJN-358","Family Communication",1
+"436","CJN-361","Television News Producing",3
+"437","CJN-363","Online Journalism",3
+"438","CJN-375","Organizational Communication",3
+"439","CJN-381","Business of Media",3
+"440","CJN-387","Media and Film Criticism",3
+"441","CJN-3455","Production II",3
+"442","CJN-400","Media Effects and Audiences",3
+"443","CJN-401","Networked Culture",3
+"444","CJN-403","Issues in Journalism",3
+"445","CJN-415","Review Writing",3
+"446","CJN-443","Advanced Reporting and Feature Writing",3
+"447","CJN-466","Seminar in Media/Film",3
+"448","CJN-470","Rhetoric and Global Context",3
+"449","CJN-480","Investigative Journalism & Documentary",3
+"450","CJN-481","Making the Short Film",3
+"451","CJN-482","Cultural Theory and Practice",3
+"452","CJN-483","Suffolk TV News",3
+"453","CJN-490","News Magazine",3
+"454","CJN-4455","Production III",3
+"455","CJN-505","Communication and Journalism Practicum",3
+"456","CJN-506","Honors Seminar",3
+"457","CJN-507","Production Practicum",3
+"458","CJN-510","Independent Study",3
+"459","CJN-H510","Honors Independent Study",3
+"460","CJN-H555","Senior Honors Thesis/Project",3
+"461","CJU-134","Introduction to Criminal Justice",1
+"462","CJU-204","Communities and Crime",3
+"463","CJU-207","Police and Society",3
+"464","CJU-210","Juvenile Justice",3
+"465","CJU-211","Corrections and Punishment",3
+"466","CJU-218","Crime and Law in Indian Country",3
+"467","CJU-230","Bad Girls?",3
+"468","CJU-231","Victims of Crime",3
+"469","CJU-232","Street Gangs",1
+"470","CJU-233","Pathways Through the Criminal Justice System",3
+"471","CJU-236","Deviance and Social Control",4
+"472","CJU-237","School to Prison Pipeline",3
+"473","CJU-275","Women and Crime",3
+"474","CJU-285","Terrorism and Counterterrorism",3
+"475","CJU-302","Global Criminology",4
+"476","CJU-304","Race, Crime, and Justice",1
+"477","CJU-305","Crime and Mental Illness",2
+"478","CJU-327","Special Topics in Criminal Justice",3
+"479","CJU-331","Violence Against Women",3
+"480","CJU-332","Restorative Justice",3
+"481","CJU-333","Theories of Crime",3
+"482","CJU-335","Crime Mapping",3
+"483","CJU-338","White Collar Crime",3
+"484","CJU-340","Licit/Lethal: America's Drug Problem",3
+"485","CJU-341","International Drug Control Policy",1
+"486","CJU-433","Senior Seminar in Criminal Justice",3
+"487","CJU-483","Internship in Criminal Justice",3
+"488","CJU-H510","Honors Independent Study",3
+"489","CJU-H555","Senior Honors Project",3
+"490","CMPSC-F107","Ants, Rumors and Gridlocks",3
+"491","CMPSC-HF107","Honors Ants, Rumors & Gridlocks",1
+"492","CMPSC-F120","Programming for the World Wide Web",1
+"493","CMPSC-F124","Game Programming",1
+"494","CMPSC-F131","Computer Science I",3
+"495","CMPSC-F132","Computer Science II",1
+"496","CMPSC-200","Introduction to Computer Science World",1
+"497","CMPSC-201","Systems Programming",3
+"498","CMPSC-F265","Data Structures & Algorithms",4
+"499","CMPSC-310","Introduction to Data Science",3
+"500","CMPSC-F331","Object Oriented Programming",4
+"501","CMPSC-345","Software Engineering",3
+"502","CMPSC-F353","Architecture of Computer Systems",2
+"503","CMPSC-F355","Operating Systems",3
+"504","CMPSC-F363","Intro to Database Systems",3
+"505","CMPSC-F375","Introduction to Computer Networks",3
+"506","CMPSC-400","Senior Project in Computer Science",3
+"507","CMPSC-410","Special Topics in Computer Science",3
+"508","CMPSC-510","Computer Science Independent Study",3
+"509","CMPSC-511","Launching a Career in Computer Science",3
+"510","CMPSC-501","Software Development Internship",3
+"511","CMPSC-H510","Honors Computer Science Independent Study",3
+"512","CMPSC-H555","Honors Senior Project in Computer Science",3
+"513","EC-101","Applied Microeconomics",1
+"514","EC-H101","Honors Applied Microeconomics",3
+"515","EC-102","Global Macroeconomics",3
+"516","EC-H102","Honors Global Macroeconomics",3
+"517","EC-131","Environmental Economics",3
+"518","EC-141","Development Economics",3
+"519","EC-151","Economic & Human Geography",3
+"520","EC-261","Behavioral Economics",3
+"521","EC-311","Intermediate Micro Theory",3
+"522","EC-312","Intermediate Macro Theory",3
+"523","EC-402","Mathematical Economics",3
+"524","EC-410","Urban Economics: Asian Megacities in Comparative Perspective",3
+"525","EC-421","Public Finance",3
+"526","EC-430","International Trade Theory & Policy",3
+"527","EC-432","Managerial Economics",3
+"528","EC-441","Analysis of Global Economics and Financial Data",3
+"529","EC-442","International Monetary Economics",3
+"530","EC-445","The Economics of the European Union",3
+"531","EC-450","Applied Econometrics",3
+"532","EC-H450","Honors Applied Econometrics",1
+"533","EC-451","Economic Forecasting",3
+"534","EC-460","Game Theory",1
+"535","EC-480","Financial Economics",2
+"536","EC-483","Money, Banking & Financial Markets",3
+"537","EC-490","Senior Seminar in Economics",3
+"538","EC-H490","Honors Senior Seminar in Economics",3
+"539","EC-503","Internship in Economics",4
+"540","EC-510","EC Independent Study",3
+"541","EC-H510","Honors Independent Study",1
+"542","EC-511","Professional Development in Economics",3
+"543","EDUC-110","Introduction to Critical Issues in Education",2
+"544","EDUC-202","Educational Psychology",3
+"545","EDUC-205","SL-Community Tutoring Project",4
+"546","EDUC-208","SL: College Access",3
+"547","EDUC-210","Service Learning: Alternative Spring Break",1
+"548","EDUC-214","SL-Introduction to Teaching",3
+"549","EDUC-215","Service Learning Community Literacies",3
+"550","EDUC-310","Culturally Sustaining Practices",3
+"551","EDUC-315","Strategies for Working With Emergent English Learners",3
+"552","EDUC-316","TESOL Practice",3
+"553","EDUC-317","TESOL Experience",3
+"554","EDUC-402","History & Philosophy of American Education",3
+"555","EDUC-408","Youth Programming",3
+"556","EDUC-414","Urban Schooling",1
+"557","EDUC-424","Global Issues and Trends in Education",3
+"558","EDUC-510","Independent Study",2
+"559","ENG-113","World Drama I",3
+"560","ENG-114","World Drama II",1
+"561","ENG-120","Ireland to America (and Back Again): Irish & Irish-American",3
+"562","ENG-123","Great Books of the World I",3
+"563","ENG-124","Great Books of the World II",3
+"564","ENG-130","Introduction to Literature",3
+"565","ENG-H130","Honors Introduction to Literature",3
+"566","ENG-135","World Literature in English",3
+"567","ENG-H135","World Literature in English",3
+"568","ENG-141","Studies in British Literature",3
+"569","ENG-142","Studies in American Literature",3
+"570","ENG-150","Mysteries",3
+"571","ENG-151","Introduction to African-American Literature",4
+"572","ENG-152","Horror Fiction",3
+"573","ENG-153","Literature of War",3
+"574","ENG-154","Bob Dylan and the Beat Generation",4
+"575","ENG-H154","Honors Bob Dylan and the Beat Generation",4
+"576","ENG-155","Young Adult Literature",3
+"577","ENG-H155","Honors Young Adult Literature",3
+"578","ENG-156","Immigrant Stories",3
+"579","ENG-157","Poetry and Religion",3
+"580","ENG-158","Nasty Women and Unruly Voices in American Literature",2
+"581","ENG-H158","Honors Nasty Women and Unruly Voices in American Literature",3
+"582","ENG-159","The Literature of London",3
+"583","ENG-160","School Stories: Narratives of Power and Class",3
+"584","ENG-161","Writing the American West",3
+"585","ENG-162","Shakespeare From Stage to Screen",3
+"586","ENG-163","Latinx Literature Today",4
+"587","ENG-170","Narrative and Medicine",3
+"588","ENG-H170","Honors Narrative and Medicine",2
+"589","ENG-172","Sports & Literature",1
+"590","ENG-212","Introduction to Creative Writing",1
+"591","ENG-213","English Literature I",3
+"592","ENG-214","English Literature II",3
+"593","ENG-217","American Literature I",3
+"594","ENG-218","American Literature II",3
+"595","ENG-266","Mad Men: Reading Visual Narratives",4
+"596","ENG-H266","Mad Men: Reading Visual Narratives",3
+"597","ENG-291","Introduction to Teaching English",3
+"598","ENG-301","Literary Criticism Seminar",3
+"599","ENG-311","Medieval Literature Survey",3
+"600","ENG-312","English Grammar and Usage",3
+"601","ENG-316","Fifth Century Athens",1
+"602","ENG-317","Classical Mythology",1
+"603","ENG-320","Writing and Tutoring: Theory and Practice I",3
+"604","ENG-321","Writing and Tutoring: Theory and Practice II",2
+"605","ENG-324","Shakespeare's Comedies",3
+"606","ENG-326","Shakespeare's Tragedies",3
+"607","ENG-327","Studies in Shakespeare",3
+"608","HST-336","Fifth-Century Athens",3
+"609","ENG-340","Readings in Decadent Literature",3
+"610","ENG-344","English Romantic Literature",3
+"611","ENG-347","20th Century Female Gothic",3
+"612","ENG-348","Jane Austen",3
+"613","ENG-H348","Honors Jane Austen",3
+"614","ENG-352","Global American Literature",3
+"615","ENG-354","Hawthorne, Melville and Stowe",3
+"616","ENG-356","Whitman and Dickinson",3
+"617","ENG-357","African-American Literature",3
+"618","ENG-358","Women Writing the American West",3
+"619","ENG-361","Contemporary American Fiction",3
+"620","ENG-362","Asian-American Literature",3
+"621","ENG-370","Fiction Writing Workshop",3
+"622","ENG-371","Creative Non-Fiction Workshop",3
+"623","ENG-375","Poetry Writing Workshop",3
+"624","ENG-376","Literary Publishing",3
+"625","ENG-377","Writing for Digital Media",2
+"626","ENG-387","Writing Women",3
+"627","ENG-388","Utopias and Dystopias",3
+"628","ENG-389","History of the Book",3
+"629","ENG-390","Writing Process and Revision",3
+"630","ENG-391","Research and Writing",3
+"631","ENG-392","Readings in Post-Colonial Literature",3
+"632","ENG-395","Rhetoric and Memoir",3
+"633","ENG-396","Varieties of Workplace Writing",2
+"634","ENG-399","Irish Literature",1
+"635","ENG-408","Modern Greek Literature in English Translation",3
+"636","ENG-409","Literary Bloomsbury: Woolf and Forster",3
+"637","ENG-410","From Pagan Reason to Christian Revelation",1
+"638","ENG-426","Virgil's Eclogues",3
+"639","ENG-428","Virgil's Aeneid: First Three Books",3
+"640","ENG-429","Classic Literature of the Underworld",3
+"641","ENG-430","Literature of the Vietnam War and the Post 9/11 Wars",3
+"642","ENG-432","Classical Greek and Roman Poetry",1
+"643","ENG-440","The Odes of Horace",3
+"644","ENG-476","Salamander Practicum",3
+"645","ENG-490","Imperial Rome",3
+"646","ENG-H526","American Writers Abroad",3
+"647","ENG-510","Independent Study",3
+"648","ENG-H510","Honors Independent Study",3
+"649","ENG-514","Internship in English",3
+"650","ENG-515","Salamander Internship",3
+"651","ENG-H525","Honors Seminar: 1900 - Present",1
+"652","ENG-H555","Senior Honors Thesis",3
+"653","FR-101","Elementary French I",3
+"654","FR-102","Elementary French II",3
+"655","FR-216","Masterpieces of French and Francophone Literature in English Translation",4
+"656","FR-220","French & Francophone Cinema",3
+"657","FR-320","French & Francophone Cinema",3
+"658","FR-510","Independent Study",3
+"659","FS-103","Introduction to Forensic Science",3
+"660","FS-L103","Introduction to Forensic Science Lab",3
+"661","FS-428","Criminalistics Practicum",3
+"662","FS-429","Criminalistics Practicum II",3
+"663","GCS-110","Reading the World: Global Awareness Through Art and Literature",3
+"664","GCS-503","Internship",3
+"665","GCS-510","Independent Study",3
+"666","GCS-H510","Honors Independent Study",4
+"667","GCS-511","Professional Development",3
+"668","GCS-H555","Global Cultural Studies Seniors Honors Thesis",3
+"669","GER-101","Elementary German I",3
+"670","GER-102","Elementary German II",3
+"671","GVT-180","Politics in the Era of Global Pandemic",1
+"672","HST-100","Introduction to Asian Studies: Culture, People, Ideas",3
+"673","HST-101","History of Western Civilization I",3
+"674","HST-102","History of Western Civilization II",1
+"675","HST-103","Cultures and Social Transformations in Asia",3
+"676","HST-115","Introduction to Chinese History and Culture",2
+"677","HST-121","World History I",3
+"678","HST-122","World History II",4
+"679","HST-130","Chinese Civilization Through Movies",3
+"680","HST-140","Empire of Our Things: How We Became Consumers",3
+"681","HST-149","Empires & Globalization in World History I",3
+"682","HST-150","Empires & Globalization in World History II",3
+"683","HST-181","American Life to the Civil War Era",3
+"684","HST-182","American Life Since the Civil War Era",3
+"685","HST-200","Gateway to the Past The Historian's Craft",3
+"686","HST-218","Sl- Walls & Bridges: Immigration in Global Perspective",3
+"687","HST-227","Eyes on the Prize: Civil Rights Movement of the 20th Century",3
+"688","HST-228","African American Experience and Public History in the U.S.",3
+"689","HST-236","Public History in Practice",3
+"690","HST-239","Getting Started With Oral History",3
+"691","HST-240","Doing Local and Community History",3
+"692","HST-241","Narrating the Past With Digital History",3
+"693","HST-251","Modern East Asia",3
+"694","HST-256","Exploring Asia",3
+"695","HST-260","Asian Peoples and Cultures",3
+"696","HST-266","The British: History & Popular Culture Since 1945",3
+"697","HST-268","History of the Mediterranean",3
+"698","HST-271","African-American History 1619-1860",3
+"699","HST-272","African-American History from 1860",3
+"700","HST-273","The Enlightenment, French Revolution & Napoleon, 1700-1815",3
+"701","HST-274","Women in 19th-Century Europe",3
+"702","HST-275","Women in 20th-Century Europe",3
+"703","HST-278","The Spanish Civil War (1936-1939) and Spain Today",3
+"704","HST-288","Presidents We Love to Hate",4
+"705","HST-289","Hamilton: The Seminar",3
+"706","HST-290","19th-Century America",3
+"707","HST-292","Modern American Foreign Relations",1
+"708","HST-296","Building Urban America: City Design and Architecture From 1700-1880",3
+"709","HST-H296","Bldg Urban America: City Design & Arch.",3
+"710","HST-304","Imperial Rome",3
+"711","HST-308","Public History in Practice",3
+"712","HST-312","Renaissance and Reformation Europe",3
+"713","HST-313","Cities of Early-Modern Europe",2
+"714","HST-319","The History of Black Music in America",3
+"715","HST-321","History of Islam",3
+"716","HST-333","Age of Reform, Depression, & World Wars, America: 1898-1945",4
+"717","HST-334","Cold War America Through the Tumultuous 1960s",3
+"718","HST-335","Recent America: From Nixon to the Present",4
+"719","HST-336","Fifth-Century Athens",3
+"720","HST-337","Nazi Germany",3
+"721","HST-340","Europe in the 20th Century",3
+"722","HST-347","The Rise of China: Through Films, Media, and History",3
+"723","HST-348","Samurai: History, Literature & Film",3
+"724","HST-356","World War II: the Global War",3
+"725","HST-357","Spain's Ancient to Early Modern Societies and Realms",3
+"726","HST-358","Spanish Society and the State, From Absolutism to Democracy?",3
+"727","HST-359","The Age of Franklin",1
+"728","HST-360","Native America: From Pre-History to the Trail of Tears",3
+"729","HST-361","Native America 1832 to Present",4
+"730","HST-362","History of Piracy",3
+"731","HST-H362","Honors History of Piracy",3
+"732","HST-366","Introduction to Archives and Archival Practices",1
+"733","HST-369","American Objects: Materials, Meaning, and History",3
+"734","HST-371","U.S. Women's History Colonial to 1865",4
+"735","HST-372","U.S. Women's History: 1865-present",1
+"736","HST-374","Jefferson to Jackson: Culture and Politics in the New Nation",3
+"737","HST-375","Inequality",3
+"738","HST-381","American Colonial History",3
+"739","HST-382","The American Revolution",3
+"740","HST-383","Boston: Heritage of a City",3
+"741","HST-396","The African Diaspora",3
+"742","HST-426","Politics and Culture in Europe, 1919-1939",1
+"743","HST-465","Monumental Women: Female Public Space",3
+"744","HST-H465","Honors Monumental Women: Female Public Space",3
+"745","HST-469","Research Seminar: African American Life in Slavery and Freedom- Reconstruction And the Freedman's Bureau Papers",3
+"746","HST-483","Death, Disease, Healing-U.S. History",3
+"747","HST-484","History of the Emotions",3
+"748","HST-489","Germany: Film, Politics, Memory Since 1945",1
+"749","HST-494","Politics and Protest",3
+"750","HST-510","Independent Study",3
+"751","HST-H510","Honors Independent Study",3
+"752","HST-522","History Internship",4
+"753","HST-530","Senior Applied Learning Project",3
+"754","HST-H555","Senior Honors Capstone",3
+"755","HSTLT-H555","Honors Senior Thesis",3
+"756","ITAL-101","Elementary Italian I",1
+"757","ITAL-102","Elementary Italian II",3
+"758","KOR-101","Elementary Korean I",3
+"759","KOR-102","Elementary Korean II",3
+"760","LAWU-101","Ethics and Legal Practice Skills",3
+"761","LAWU-201","Introduction to Law",3
+"762","LAWU-H201","Honors Introduction to Law",4
+"763","LAWU-211","Litigation",3
+"764","LAWU-H211","Honors Litigation",3
+"765","LAWU-221","Law of Contracts",3
+"766","LAWU-H221","Honors Law of Contracts",3
+"767","LAWU-260","Criminal Law",4
+"768","LAWU-270","Technology and the Law",3
+"769","LAWU-280","Domestic Violence, Abuse and Neglect",3
+"770","LAWU-301","Legal Research and Writing I",3
+"771","LAWU-310","Gender, Sexuality, and the Law",3
+"772","LAWU-325","Wills and Probate",3
+"773","LAWU-330","Real Estate Law",3
+"774","LAWU-340","Family Law",3
+"775","LAWU-345","Education Law",4
+"776","LAWU-350","Intellectual Property",3
+"777","LAWU-355","Corporate Law",4
+"778","LAWU-360","Administrative Law and Worker's Compensation",3
+"779","LAWU-365","Employment and Labor Law",3
+"780","LAWU-370","Immigration Law",3
+"781","LAWU-375","International Law",3
+"782","LAWU-401","Legal Research and Writing II",3
+"783","LAWU-410","Advanced Litigation and Trial Practice",3
+"784","LAWU-471","Topics in Law",1
+"785","LAWU-510","Independent Study",3
+"786","LAWU-534","Experiential Learning in Law",3
+"787","LAWU-H510","Honors Independent Study",4
+"788","LAWU-521","Paralegal Internship",3
+"789","LAWU-530","Working With Domestic Violence Survivors",3
+"790","LAWU-531","Human Rights & Tribal Government",1
+"791","MATH-000","Mathshop - Bridge to College Math",1
+"792","MATH-104","Precalculus for Management & Social Sciences",1
+"793","MATH-121","Precalculus With Elements of Calculus",3
+"794","MATH-123","Trigonometry for Calculus",3
+"795","MATH-128","Math for the Modern World",3
+"796","MATH-130","Topics in Finite Mathematics",3
+"797","MATH-134","Calculus for Management & Social Sciences",3
+"798","MATH-165","Calculus I",3
+"799","MATH-166","Calculus II",1
+"800","MATH-185","Discrete Mathematics I",3
+"801","MATH-200","Modern Mathematics and Career Exploration",3
+"802","MATH-255","Probability and Statistics",3
+"803","MATH-265","Calculus III",3
+"804","MATH-275","Introductory Applied Linear Algebra",1
+"805","MATH-285","Discrete Mathematics II",2
+"806","MATH-290","Financial Mathematics I",3
+"807","MATH-312","Topics in Mathematics",3
+"808","MATH-331","Introduction to Advanced Mathematics",3
+"809","MATH-357","Math Statistical Analysis",3
+"810","MATH-373","Ordinary Differential Equations",3
+"811","MATH-431","Linear Algebra",3
+"812","MATH-432","Abstract Algebra",3
+"813","MATH-462","Real Analysis",3
+"814","MATH-481","Complex Analysis I",3
+"815","MATH-510","Independent Study",3
+"816","MATH-H510","Honors Independent Study",3
+"817","MATH-511","Launching a Career in Mathematics",3
+"818","MATH-512","Special Topic in Advanced Math",3
+"819","MATH-H555","Honors Senior Project in Mathematics",3
+"820","MUH-101","History of Music I",3
+"821","MUH-102","History of Music II",3
+"822","MUH-210","Music of the Twentieth Century",3
+"823","MUH-211","Music of the United States",4
+"824","MUH-212","Popular Music in the United States",3
+"825","MUH-221","History of Women in Music",4
+"826","MUH-223","World Music",4
+"827","MUH-227","Jazz and Blues",3
+"828","NEUR-101","Intro to Neuroscience",1
+"829","PHIL-113","Critical Thinking and Civil Discourse",1
+"830","PHIL-115","Introduction to Philosophy",1
+"831","PHIL-119","Ethics",3
+"832","PHIL-H119","Honors Ethics",3
+"833","PHIL-120","Ethics and Civic Life",3
+"834","PHIL-H120","Honors Ethics and Civic Life",3
+"835","PHIL-123","Social Ethics: The Good Life",3
+"836","PHIL-E123","Service Learning Component",3
+"837","PHIL-H123","Honors Social Ethics: The Good Life",3
+"838","PHIL-127","Contemporary Moral Issues",3
+"839","PHIL-E127","Service Learning Component",3
+"840","PHIL-H127","Honors Contemporary Moral Issues",3
+"841","PHIL-210","History of Ancient & Medieval Philosophy",3
+"842","PHIL-H210","Honors History of Ancient & Medieval Philosophy",3
+"843","PHIL-211","History of Modern Philosophy",3
+"844","PHIL-212","Formal Logic",3
+"845","PHIL-219","Philosophy of Art",3
+"846","PHIL-223","Philosophy in Literature",3
+"847","PHIL-228","Feminist Philosophy",3
+"848","PHIL-229","Eco-Feminism",3
+"849","PHIL-H229","Honors Eco-Feminism",3
+"850","PHIL-250","Social & Political Philosophy",3
+"851","PHIL-H250","Honors Social & Political Philosophy",1
+"852","PHIL-251","Philosophy of Race & Gender",3
+"853","PHIL-261","Eastern Philosophy",3
+"854","PHIL-262","Buddhism",3
+"855","PHIL-263","Native American Religion",3
+"856","PHIL-265","Women in Spirituality",3
+"857","PHIL-267","Chinese Philosophy",3
+"858","PHIL-280","Fascisms",3
+"859","PHIL-314","20th Century Philosophy",3
+"860","PHIL-H314","Honors 20th Century Philosophy",3
+"861","PHIL-316","Existentialism",3
+"862","PHIL-H316","Honors Existentialism",3
+"863","PHIL-318","Philosophy of Law",3
+"864","PHIL-H318","Honors Philosophy of Law",3
+"865","PHIL-319","Topics in Applied Ethics",3
+"866","PHIL-330","African Philosophy and Religion",4
+"867","PHIL-362","Environmental Ethics",3
+"868","PHIL-363","Bio and Medical Ethics",3
+"869","PHIL-390","Internship in Politics, Philosophy and Economics",3
+"870","PHIL-403","The Idea of Human Rights",3
+"871","PHIL-414","Topics in Philosophy",4
+"872","PHIL-H414","Honors Topics in Philosophy",3
+"873","PHIL-416","Plato: Profiles in Philosophy",3
+"874","PHIL-423","Advanced Formal Logic",3
+"875","PHIL-424","Philosophy and Literature: Feodor Dostoevsky and the Great Philosophical Novel",3
+"876","PHIL-440","Stay the Hand: Philosophical and Literary Readings on Law and Violence",3
+"877","PHIL-513","Internship in Applied Ethics",3
+"878","PHIL-515","Senior Symposium",3
+"879","PHIL-510","Independent Study",3
+"880","PHIL-H510","Honors Independent Study",3
+"881","PHIL-514","Advanced Topics in Philosophy",3
+"882","PHIL-H515","Honors Senior Symposium",2
+"883","PHYS-111","College Physics I",3
+"884","PHYS-L111","College Physics Lab I",3
+"885","PHYS-112","College Physics II",3
+"886","PHYS-L112","College Physics Lab II",3
+"887","PHYS-L151","University Physics Lab I",3
+"888","PHYS-152","University Physics II",2
+"889","PHYS-H152","Honors University Physics II",3
+"890","PHYS-L152","University Physics Lab II",1
+"891","PHYS-153","University Physics III",4
+"892","PHYS-L153","University Physics III Lab",3
+"893","PHYS-205","Introduction to Astrophysics",3
+"894","PHYS-213","Introduction to Earth & Planetary Interiors",3
+"895","PHYS-215","Nanomaterials and the Energy Problem",3
+"896","PHYS-253","Introduction to Electronics",3
+"897","PHYS-L253","Introduction to Electronics Laboratory",3
+"898","PHYS-L304","Radiation Therapy Practicum",3
+"899","PHYS-L314","Medical Dosimetry Practicum",3
+"900","PHYS-333","Math Methods of Physics",3
+"901","PHYS-363","Classical Mechanics",3
+"902","PHYS-381","Observational Astronomy",3
+"903","PHYS-L381","Observational Astronomy Laboratory",3
+"904","PHYS-L455","Advanced Laboratory",3
+"905","PHYS-461","Quantum Mechanics I",3
+"906","PHYS-463","Stellar Astrophysics",3
+"907","PHYS-477","Electricity and Magnetism",3
+"908","PHYS-500","Experiential Learning in Physics",3
+"909","PHYS-510","Independent Study",3
+"910","PHYS-H510","Honors Independent Study",3
+"911","PHYS-H533","Honors Special Topics in Physics",3
+"912","PHYS-555","Undergraduate Research in Physics",3
+"913","PHYS-H555","Honors Undergraduate Research in Physics",3
+"914","POLS-005","Summer Campaign Lab",3
+"915","POLS-010","Summer Campaign Lab",1
+"916","POLS-110","Introduction to American Politics",3
+"917","POLS-H110","Honors Introduction to American Politics",3
+"918","POLS-115","Evolution of the Global System",3
+"919","POLS-120","Research Methods",3
+"920","POLS-H120","Honors Research Methods",3
+"921","POLS-121","Research Methodology for International Relations",3
+"922","POLS-181","Introduction to Comparative Politics",3
+"923","POLS-201","Data Analysis and Politics",4
+"924","POLS-208","Politics and Religion",3
+"925","POLS-223","American Politics & Institutions",1
+"926","POLS-224","Introduction to Public Policy",2
+"927","POLS-H224","Honors Introduction to Public Policy",3
+"928","POLS-225","U.S. Constitutional Law & Civil Liberties",3
+"929","POLS-H225","Honors U.S. Constitutional Law & Civil Liberties",3
+"930","POLS-245","Courts, Public Policy, and Legal Research",3
+"931","POLS-H245","Honors Courts, Public Policy & Legal Research",2
+"932","POLS-253","State and Local Government",1
+"933","POLS-261","Theory & Practice of International Relations",2
+"934","POLS-275","Ancient & Medieval Political Theory",3
+"935","POLS-276","Modern Political Theory",3
+"936","POLS-277","International Political Theory",3
+"937","POLS-278","Radical & Revolutionary Political Thought",3
+"938","POLS-279","Race, Ethnicity, and Politics",3
+"939","POLS-306","Women & Public Policy",2
+"940","POLS-307","Globalization of Gender Politics",3
+"941","POLS-308","International Security",3
+"942","POLS-309","Transitional Justice",3
+"943","POLS-H309","Transitional Justice",3
+"944","POLS-310","Global Political Economy",3
+"945","POLS-311","The Conflict in Israel/Palestine",3
+"946","POLS-323","Political Survey Research",2
+"947","POLS-340","Moot Court",3
+"948","POLS-345","Public Policy Writing",3
+"949","POLS-346","The American Presidency",3
+"950","POLS-347","Legislative Politics",3
+"951","POLS-H348","Honors Supreme Court Seminar",3
+"952","POLS-357","Urban Politics",1
+"953","POLS-359","Global Politics of Sport",3
+"954","POLS-361","Voting Rights and Election Law",3
+"955","POLS-H361","Honors Voting Rights",1
+"956","POLS-363","American Foreign Policy",3
+"957","POLS-365","Politics and Diplomacy in Realtime",4
+"958","POLS-367","Politics of Spain",3
+"959","POLS-382","Crisis and Integration in Europe",3
+"960","POLS-383","African Politics",3
+"961","POLS-385","Central and Southeast Asian Politics",3
+"962","POLS-387","SL-Conflict & Development in Asia Service Abroad",3
+"963","POLS-389","Politics of China",3
+"964","POLS-391","Canada: Multicultural Politics",2
+"965","POLS-393","Latin American Politics Today",3
+"966","POLS-404","International Political Marketing",2
+"967","POLS-411","Politics of North and Southeast Asia",1
+"968","POLS-438","Environmental Policy & Politics",3
+"969","POLS-H438","Honors Environmental Policy & Politics",3
+"970","POLS-439","Global Environmental Threat",3
+"971","POLS-441","Ready, Set, Run!",3
+"972","POLS-442","Candidate Definition",1
+"973","POLS-443","Candidate Media Strategy 101",3
+"974","POLS-463","International Legal Systems",3
+"975","POLS-467","Comparative Social Movements",3
+"976","POLS-469","International Human Rights",3
+"977","POLS-471","Topics in Democracy: Democratic Erosion",3
+"978","POLS-501","Senior Seminar",3
+"979","POLS-502","Senior Seminar for International Relations",3
+"980","POLS-503","Washington Academic Seminar I",3
+"981","POLS-H503","Honors Washington Academic Seminar I",3
+"982","POLS-505","Washington Seminar on National Security",2
+"983","POLS-H505","Honors TWC Seminar-National Security",3
+"984","POLS-506","Political Convention Program",3
+"985","POLS-509","United Nations Seminar",3
+"986","POLS-510","Independent Study",1
+"987","POLS-H510","Honors Independent Study",3
+"988","POLS-521","Internship in Political Science",3
+"989","POLS-H521","Honors Internship in Government",3
+"990","POLS-523","Washington Internship",2
+"991","POLS-H523","Honors Washington Internship",3
+"992","POLS-524","Washington Internship-Summer",3
+"993","POLS-H524","Honors Washington Internship Summer",3
+"994","POLS-525","Washington Internship Seminar",1
+"995","POLS-H525","Honors Washington Internship Seminar",2
+"996","POLS-526","International Internship-London",4
+"997","POLS-H526","Honors International Internship London",3
+"998","POLS-527","International Internship Brussels",3
+"999","POLS-H527","Honors International Internship Brussels",3
+"1000","POLS-528","International Seminar I",3
+"1001","POLS-533","International Internship Edinburgh",3
+"1002","POLS-H533","Honors International Internship Edinburgh",3
+"1003","POLS-534","Experiential Learning in Political Science",3
+"1004","POLS-H534","Honor Experiental Learning in Government",3
+"1005","POLS-538","Summer Campaign Lab",3
+"1006","POLS-541","International Advocacy",1
+"1007","POLS-542","Diplomacy and Foreign Service",2
+"1008","POLS-555","Senior Thesis",3
+"1009","PPE-401","Political Economy",3
+"1010","PPE-H401","Honors Political Economy",1
+"1011","PPE-510","Independent Study",3
+"1012","PPE-H510","Honors Independent Study",3
+"1013","PSYCH-114","General Psychology",3
+"1014","PSYCH-H114","Honors General Psychology",3
+"1015","PSYCH-215","Behavioral Statistics",3
+"1016","PSYCH-216","Research Methods and Design",3
+"1017","PSYCH-H216","Honors Research Methods and Design",3
+"1018","PSYCH-219","SL-Psychology of Trauma",3
+"1019","PSYCH-222","Human Sexuality",3
+"1020","PSYCH-H222","Honors Human Sexuality",3
+"1021","PSYCH-226","Theories of Personality",1
+"1022","PSYCH-233","Child Development",3
+"1023","PSYCH-H233","Child Development",1
+"1024","PSYCH-240","Professional Development in the Science And Practice of Psychology",3
+"1025","PSYCH-241","Social Psychology",1
+"1026","PSYCH-243","Organizational Psychology",3
+"1027","PSYCH-247","Asian Perspectives on Health and Work",3
+"1028","PSYCH-248","The Psychology of Mindfulness",3
+"1029","PSYCH-249","Introduction to Lifespan Development",3
+"1030","PSYCH-280","Sports Psychology",3
+"1031","PSYCH-311","Social Neuroscience",3
+"1032","PSYCH-H311","Honors Social Neuroscience",1
+"1033","PSYCH-312","Cognitive Neuroscience",3
+"1034","PSYCH-313","Physiological Psychology",3
+"1035","PSYCH-314","Learning & Reinforcement",3
+"1036","PSYCH-317","Psychology of Addictions",3
+"1037","PSYCH-321","Introduction to Counseling Skills",3
+"1038","PSYCH-H321","Honors Introduction to Counseling Skills",3
+"1039","PSYCH-324","Psychology of Identity and the Self",3
+"1040","PSYCH-325","Health Psychology",3
+"1041","PSYCH-H325","Honors Health Psychology",3
+"1042","PSYCH-326","Abnormal Psychology",3
+"1043","PSYCH-333","Adult Development & Aging",3
+"1044","PSYCH-334","Adolescent Development",3
+"1045","PSYCH-336","Developmental Psychopathology",3
+"1046","PSYCH-H336","Honors Developmental Psychopathology",3
+"1047","PSYCH-340","Professional Development in Psychology",3
+"1048","PSYCH-341","Sociocultural Perspectives on Behavior and Experience",3
+"1049","PSYCH-346","SL-Community Psychology",3
+"1050","PSYCH-348","Introduction to Forensic Psychology",3
+"1051","PSYCH-350","Psychology Internship",3
+"1052","PSYCH-400","Special Topics in Psychology",3
+"1053","PSYCH-428","Senior Seminar in Psychology",3
+"1054","PSYCH-H428","Honors Senior Seminar in Psychology",3
+"1055","PSYCH-500","Psychology Research Experience",3
+"1056","PSYCH-503","Directed Field Experience in Psychology",2
+"1057","PSYCH-510","Independent Study",3
+"1058","PSYCH-H510","Honors Independent Study",3
+"1059","PSYCH-550","Advanced Internship in Psychology",3
+"1060","PSYCH-H550","Honors Advanced Internship in Psychology",3
+"1061","PSYCH-H555","Honors Research",3
+"1062","RAD-206","Introduction to Radiation Oncology",3
+"1063","RAD-301","Clinical Radiation I",3
+"1064","RAD-L301","Radiation Therapy Rotation I",3
+"1065","RAD-302","Clinical Radiation II",3
+"1066","RAD-L302","Radiation Therapy Rotation II",3
+"1067","RAD-L303","Radiation Therapy Rotation III",3
+"1068","RAD-L304","Radiation Therapy Practicum",3
+"1069","RAD-L311","Medical Dosimetry Rotation I",3
+"1070","RAD-L312","Medical Dosimetry Rotation II",2
+"1071","RAD-L313","Medical Dosimetry Rotation III",3
+"1072","RAD-L314","Medical Dosimetry Practicum",4
+"1073","RAD-315","Radiation Physics I",3
+"1074","RAD-L315","Radiation Physics I Lab",3
+"1075","RAD-317","Radiation Physics II",3
+"1076","RAD-321","Clinical Radiation I",3
+"1077","RAD-L321","Radiation Therapy Rotation I",3
+"1078","RAD-L322","Radiation Therapy Practicum",3
+"1079","RAD-323","Clinical Radiation II",3
+"1080","RAD-L323","Radiation Therapy Rotation II",3
+"1081","RAD-L324","Radiation Therapy Rotation III",3
+"1082","RAD-415","Dosimetry I",3
+"1083","RAD-L415","Dosimetry I Lab",3
+"1084","RAD-416","Radiation Biology",1
+"1085","RAD-417","Dosimetry II",4
+"1086","RAD-420","Radiation Oncology & Pathology",1
+"1087","RAD-422","Radiology",3
+"1088","RAD-435","Brachytherapy",3
+"1089","RAD-450","Dosimetry Systems and Networking and Quality Assurance",1
+"1090","RAD-470","Radiation Science Internship",3
+"1091","RAD-471","Senior Seminar for Radiation Science",3
+"1092","RAD-475","Senior Seminar for Radiation Therapy",3
+"1093","RAD-476","Senior Seminar for Medical Dosimetry",3
+"1094","RAD-H503","Honors Radiation Science Internship",3
+"1095","RS-111","Introduction to World Religions: Western Traditions",3
+"1096","RS-112","Introduction to World Religions: Eastern Traditions",3
+"1097","RS-301","Reason and Revelation",2
+"1098","SCI-103","Environmental Science",3
+"1099","SCI-L103","Environmental Science Lab",3
+"1100","SCI-106","Biotechnology & Its Application in Medicine, Agriculture, Law",3
+"1101","SCI-H106","Honors Biotechnology & Its Application In Medicine, Agriculture, Law",4
+"1102","SCI-108","Introduction to Cancer Care",3
+"1103","SCI-H108","Honors Introduction to Cancer Care",3
+"1104","SCI-109","SL-Introduction to Community Cancer Care",3
+"1105","SCI-H109","SL-Honors Introduction to Community Cancer Care",4
+"1106","SCI-111","Introduction to Astronomy",3
+"1107","SCI-L111","Introduction to Astronomy Lab",1
+"1108","SCI-112","Structure of the Universe",3
+"1109","SCI-L112","Structure of the Universe Lab",3
+"1110","SCI-113","A Habitable Earth Within the Solar System",3
+"1111","SCI-165","Inner Workings of the Physical Universe",3
+"1112","SCI-171","The Built World: How Humans Engineer Environments",3
+"1113","SCI-173","Mapping Our World The Power of Digital Maps",3
+"1114","SCI-H171","The Built World: How Humans Engineer Environments- Honors",3
+"1115","SCI-L173","Mapping Our World Lab",3
+"1116","SCI-181","Science and Life in the 21st Century",3
+"1117","SCI-184","Contemporary Science and Innovation",3
+"1118","SCI-201","Physics for Future Presidents",1
+"1119","SCI-210","Earth and Planetary Crystals",3
+"1120","SCI-L210","Earth and Planetary Crystals Laboratory",1
+"1121","SCI-251","Intro to Coastal Geology",3
+"1122","SCI-288","Measuring the World",3
+"1123","SCI-360","Planetary Science and Astrobiology",3
+"1124","SCI-L360","Planetary Science and Astrobiology Lab",1
+"1125","SCI-410","Marine Biogeochemistry",3
+"1126","SF-126","The Boston Theatre Scene: the Inside Experience",3
+"1127","SF-173","Crime in American Society",3
+"1128","SF-174","Tragedy and Literature",1
+"1129","SF-182","Heroes, Antiheroes and Outsiders: Reading the Graphic Novel",3
+"1130","SF-H182","Heroes, Antiheroes and Outsiders: Reading the Graphic Novel",3
+"1131","SF-189","American Gothic: Edgar Allan Poe, Flannery O'Connor and Annie Proulx",4
+"1132","SF-194","The Rebirth of Tragedy: Rock Music 1968-1972",3
+"1133","SF-H197","Sustainability, Energy, and Technology At Suffolk University",3
+"1134","SF-198","Music and the Brain",3
+"1135","SOC-113","Introduction to Sociology",1
+"1136","SOC-H113","Honors Introduction to Sociology",3
+"1137","SOC-116","Social Justice",3
+"1138","SOC-209","Youth in American Society",4
+"1139","SOC-212","Statistics for Sociology",3
+"1140","SOC-214","Research Methods in Sociology",1
+"1141","SOC-221","Environment and Society",3
+"1142","SOC-223","Families in Contemporary Society",3
+"1143","SOC-224","Families in Contemporary Society (Spain)",3
+"1144","SOC-226","Religion in Contemporary Society",4
+"1145","SOC-227","Race in American Society",3
+"1146","SOC-228","Cultural Diversity",3
+"1147","SOC-242","Law, Health & Human Rights",3
+"1148","SOC-244","Social Work With Families",3
+"1149","SOC-253","Sociology of Health and Illness",3
+"1150","SOC-256","Sociology of Aging",3
+"1151","SOC-257","Death and Dying",3
+"1152","SOC-258","Global Health and Healing",3
+"1153","SOC-273","Women in Contemporary Society",3
+"1154","SOC-276","Sex and Society",3
+"1155","SOC-301","Sociology of Law",3
+"1156","SOC-306","Population and Society",3
+"1157","SOC-308","Sociology of Education",3
+"1158","SOC-315","Social Conflict and Social Change",3
+"1159","SOC-321","Identities, Self, and Society",1
+"1160","SOC-327","Special Topics in Sociology",3
+"1161","SOC-329","Sociology of Globalization",1
+"1162","SOC-330","Race and Human Rights",3
+"1163","SOC-334","Sociology of Policing",3
+"1164","SOC-336","Probation and Parole",3
+"1165","SOC-342","Law, Health & Human Rights",3
+"1166","SOC-344","Community Organizing",3
+"1167","SOC-347","Immigration Law and Policy",3
+"1168","SOC-348","Urban Sociology",3
+"1169","SOC-352","U.S. Health Care Policy",3
+"1170","SOC-355","Women and Health",4
+"1171","SOC-390","The Prison Experience, Literature and Film",2
+"1172","SOC-406","The Immigrant Experience",1
+"1173","SOC-433","Senior Seminar",3
+"1174","SOC-483","Internship in Sociology I",3
+"1175","SOC-484","Internship in Sociology II",3
+"1176","SOC-510","Independent Study",3
+"1177","SOC-H510","Honors Independent Study",3
+"1178","SOC-H555","Senior Honors Project",3
+"1179","SPAN-101","Elementary Spanish I",3
+"1180","SPAN-102","Elementary Spanish II",3
+"1181","SPAN-201","Intermediate Spanish I",3
+"1182","SPAN-202","Intermediate Spanish II",3
+"1183","SPAN-290","Advanced Composition & Conversation",3
+"1184","SPAN-295","Spanish in the Workplace",3
+"1185","SPAN-I295","Spanish in the Workplace Internship",3
+"1186","SPAN-300","Intro to Cultural Texts",3
+"1187","SPAN-301","Spanish Culture and Civilization",3
+"1188","SPAN-302","Indigenous and Colonial Latin America",3
+"1189","SPAN-305","Living in Translation",3
+"1190","SPAN-315","Spanish for the Professions",3
+"1191","SPAN-340","Hispanic Culture Today: Trans-Atlantic Perspective",3
+"1192","SPAN-360","Madrid Cosmopolitan City",3
+"1193","SPAN-365","Spanish Cities: An Ongoing Transformation",3
+"1194","SPAN-390","Introduction to Latin American and Caribbean Literature",3
+"1195","SPAN-410","Representation and Reality in Spanish Cinema",3
+"1196","SPAN-426","Latin American Theater and Society",3
+"1197","SPAN-510","Independent Study",3
+"1198","SPAN-H510","Honors Independent Study",3
+"1199","SPAN-H555","Spanish Honor Thesis",2
+"1200","STATS-240","Introduction to Statistics",4
+"1201","STATS-H240","Honors Introduction to Statistics",3
+"1202","STATS-250","Applied Statistics",3
+"1203","STATS-H250","Honors Applied Statistics",3
+"1204","THETR-100","Theatre Practicum: Performance",3
+"1205","THETR-102","Theatre Practicum: Production",3
+"1206","THETR-129","Acting",1
+"1207","THETR-151","Introduction to Design",3
+"1208","THETR-152","Introduction to Stagecraft",3
+"1209","THETR-153","Theatre Sound Lab",3
+"1210","THETR-187","Intro to Stage Management",3
+"1211","THETR-191","The Freshman Experience",3
+"1212","THETR-200","Theatre Practicum: Performance",1
+"1213","THETR-202","Theatre Practicum: Production",3
+"1214","THETR-221","Voice and Movement for Actors",3
+"1215","THETR-233","Introduction to Singing for the Stage: Classic Musical Comedies",3
+"1216","THETR-260","Broadway Musicals",1
+"1217","THETR-265","Introduction to Theatre: Prehistory to Melodrama",1
+"1218","THETR-266","Intro to Theatre: 20th Century",3
+"1219","THETR-267","Introduction to Theatre: Contemporary American",3
+"1220","THETR-281","Arts Administration I",3
+"1221","THETR-291","Professional Development",3
+"1222","THETR-322","Acting for the Camera",3
+"1223","THETR-323","Audition Training",3
+"1224","THETR-329","Acting II",2
+"1225","THETR-333","Singing for the Stage: Rock, Pop, & Progressive",3
+"1226","THETR-334","Singing for the Stage: Musicals From the Golden Age",3
+"1227","THETR-351","Set Design",3
+"1228","THETR-375","Directing I",1
+"1229","THETR-377","Playwriting",4
+"1230","THETR-384","The Art and Artistry of Calling a Show",3
+"1231","THETR-425","Advanced Scene Study",3
+"1232","THETR-433","Advanced Singing for the Stage: Broadway Musicals Today",3
+"1233","THETR-437","Staged Reading of Classic Musical",1
+"1234","THETR-459","Lighting Design II",3
+"1235","THETR-461","Play Analysis",3
+"1236","THETR-475","Directing II",4
+"1237","THETR-477","Playwriting II",2
+"1238","THETR-481","Arts Administration II",3
+"1239","THETR-488","Professional Internships",2
+"1240","THETR-489","Performance Studies",3
+"1241","THETR-503","Developing Screenplays: the Hoberman Workshop",2
+"1242","THETR-508","Capstone Experience",3
+"1243","THETR-510","Independent Study",3
+"1244","THETR-H510","Honors Independent Study",3
+"1245","THETR-H555","Senior Honor's Project",4
+"1246","UES-101","Environmental Studies",3
+"1247","UES-107","Introduction to Drones",3
+"1248","UES-L107","Introduction to Drones Lab",4
+"1249","UES-L108","Drone Flight Course",3
+"1250","UES-109","Urban Sustainability Bootcamp",4
+"1251","UES-111","Environmental Science",3
+"1252","UES-L111","Environmental Science Lab",3
+"1253","UES-115","Organic Chemistry Bootcamp",3
+"1254","UES-121","Science, Art, and the Environment",2
+"1255","UES-L121","Science, Art, and the Environment Lab",3
+"1256","UES-211","Environmental Science II",3
+"1257","UES-L211","Environmental Science II Lab",4
+"1258","UES-225","Geographical Information Science",1
+"1259","UES-L225","Geographic Information Science Lab",3
+"1260","UES-226","Drones Applications for Environmental Analysis",3
+"1261","UES-L226","Drones Applications for Environmental Analysis Lab",3
+"1262","UES-255","Chemistry and the Environment",1
+"1263","UES-L255","Chemistry and the Environment Laboratory",3
+"1264","UES-270","SL-Understanding Wetlands Through Citizen Science",3
+"1265","UES-H270","Honors SL Understanding Wetlands Through Citizen Science",3
+"1266","UES-301","Issues in Environmental Justice",3
+"1267","UES-310","SL-The Civilian Conservation Corps and the American Landscape",3
+"1268","UES-315","Foundations of Environmental Education",3
+"1269","UES-320","Advanced Wetlands Exploration",3
+"1270","UES-321","Introduction to Permaculture",3
+"1271","UES-322","Wetlands in the Literature",3
+"1272","UES-323","Advanced New England Wetlands Exploration",1
+"1273","UES-325","Environmental History of the U.S.",3
+"1274","UES-330","Research Methods",3
+"1275","UES-350","Community Food Systems",1
+"1276","UES-390","Sustainability & Development",3
+"1277","UES-401","Environmental Senior Project",3
+"1278","UES-410","Marine Biogeochemistry",3
+"1279","UES-425","Cues Environmental Projects",3
+"1280","UES-430","Oceans & Coasts",3
+"1281","UES-500","Experiential Learning in Environmental Science/Studies",3
+"1282","UES-503","Local Internship",3
+"1283","UES-505","Global Internship",3
+"1284","UES-510","Independent Study",3
+"1285","UES-H510","Honors Independent Study",3
+"1286","UES-511","Professional Development Module",3
+"1287","UES-555","Senior Thesis",3
+"1288","UES-H555","Honors Senior Thesis",3
+"1289","WGS-111","Women, History, and Culture",3
+"1290","WGS-H111","Women, History, & Culture",3
+"1291","WGS-113","Women, Science, and Society",4
+"1292","WGS-115","Introduction to Gender Studies",3
+"1293","WGS-211","Heroines, Hotties & Hubris: Adolescent Girl's Books",3
+"1294","WGS-220","Other Worlds, Other Genders: Women and Science Fiction",3
+"1295","WGS-230","Bad Boys: Representations of Masculinity In Popular Culture",1
+"1296","WGS-235","Gender and Sexuality in Visual Culture",3
+"1297","WGS-240","Feminist Literature",3
+"1298","WGS-311","Engendering Entertainment: Feminism and Popular Culture",3
+"1299","WGS-315","Feminist Thought",3
+"1300","WGS-325","Global Women's Fiction",3
+"1301","WGS-H325","Global Women's Fiction",3
+"1302","WGS-330","Furies to Femi-Nazis: A History of Modern Anti-Feminism",3
+"1303","WGS-335","Queer Narratives",3
+"1304","WGS-340","Women on Stage",3
+"1305","WGS-510","Independent Study",3
+"1306","WRI-100","Developmental Writing I",3
+"1307","WRI-100+","Developmental Writing - Tutorial Section",1
+"1308","WRI-100T","Weekly Individual Tutorial Section",3
+"1309","WRI-101","First Year Writing I",1
+"1310","WRI-L101","Developmental Writing 101 Lab",3
+"1311","WRI-102","First Year Writing II",3
+"1312","WRI-H102","Honors First Year Writing II",3
+"1313","WRI-H103","Advanced First Year Writing",3
